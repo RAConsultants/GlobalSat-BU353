@@ -1,0 +1,12 @@
+C:\Users\aseidel\Documents\Projects\GlobalSat-BU-353\GlobalSat-BU-353\bin\Debug\GlobalSat-BU-353.exe
+C:\Users\aseidel\Documents\Projects\GlobalSat-BU-353\GlobalSat-BU-353\bin\Debug\GlobalSat-BU-353.pdb
+C:\Users\aseidel\Documents\Projects\GlobalSat-BU-353\GlobalSat-BU-353\obj\x86\Debug\GlobalSat-BU-353.exe
+C:\Users\aseidel\Documents\Projects\GlobalSat-BU-353\GlobalSat-BU-353\obj\x86\Debug\GlobalSat-BU-353.pdb
+C:\Users\aseidel\Documents\Projects\GlobalSat-BU-353\GlobalSat-BU-353\bin\Debug\NMEAParser.dll
+C:\Users\aseidel\Documents\Projects\GlobalSat-BU-353\GlobalSat-BU-353\bin\Debug\GPS.dll
+C:\Users\aseidel\Documents\Projects\GlobalSat-BU-353\GlobalSat-BU-353\bin\Debug\GPS.pdb
+C:\Users\aseidel\Documents\Projects\GlobalSat-BU-353\GlobalSat-BU-353\bin\Debug\GlobalSat-BU-353.exe.config
+C:\Users\aseidel\Documents\Projects\GlobalSat-BU-353\GlobalSat-BU-353\obj\x86\Debug\GlobalSat-BU-353.csprojResolveAssemblyReference.cache
+C:\Users\aseidel\Dropbox\Carreer\RA Consultants\Projects\GlobalSat-BU-353\GlobalSat-BU-353\bin\Debug\GlobalSat-BU-353.exe.config
+C:\Users\aseidel\Dropbox\Carreer\RA Consultants\Projects\GlobalSat-BU-353\GlobalSat-BU-353\obj\x86\Debug\GlobalSat-BU-353.exe
+C:\Users\aseidel\Dropbox\Carreer\RA Consultants\Projects\GlobalSat-BU-353\GlobalSat-BU-353\obj\x86\Debug\GlobalSat-BU-353.pdb

@@ -1,0 +1,10 @@
+C:\Users\aseidel\Documents\MSDN\Coding4Fun Sample- Where The Heck Am I-\CSharp\GPS\bin\Debug\GPS.dll
+C:\Users\aseidel\Documents\MSDN\Coding4Fun Sample- Where The Heck Am I-\CSharp\GPS\bin\Debug\GPS.pdb
+C:\Users\aseidel\Documents\MSDN\Coding4Fun Sample- Where The Heck Am I-\CSharp\GPS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aseidel\Documents\MSDN\Coding4Fun Sample- Where The Heck Am I-\CSharp\GPS\obj\Debug\GPS.dll
+C:\Users\aseidel\Documents\MSDN\Coding4Fun Sample- Where The Heck Am I-\CSharp\GPS\obj\Debug\GPS.pdb
+C:\Users\aseidel\Documents\Projects\GlobalSat-BU-353\GPS\bin\Debug\GPS.dll
+C:\Users\aseidel\Documents\Projects\GlobalSat-BU-353\GPS\bin\Debug\GPS.pdb
+C:\Users\aseidel\Documents\Projects\GlobalSat-BU-353\GPS\obj\Debug\GPS.dll
+C:\Users\aseidel\Documents\Projects\GlobalSat-BU-353\GPS\obj\Debug\GPS.pdb
+C:\Users\aseidel\Documents\Projects\GlobalSat-BU-353\GPS\obj\Debug\GPS.csprojResolveAssemblyReference.cache
